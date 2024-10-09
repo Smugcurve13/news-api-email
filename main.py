@@ -1,7 +1,7 @@
 import requests
 from send_email import send_email
 
-topic = 'india'
+topic = 'anime'
 
 api_key = 'b02c08b3f9a44c378767ddefd5d87ddc'
 url = 'https://newsapi.org/v2/everything?'\
